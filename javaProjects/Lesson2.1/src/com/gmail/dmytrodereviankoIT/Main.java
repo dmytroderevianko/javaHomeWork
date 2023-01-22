@@ -3,7 +3,6 @@ package com.gmail.dmytrodereviankoIT;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		double sideA = 0.3;
 		double sideB = 0.4;
 		double sideC = 0.5;
