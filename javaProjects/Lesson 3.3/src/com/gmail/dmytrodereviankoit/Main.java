@@ -18,6 +18,7 @@ public class Main {
 		} else {
 			System.out.println("This triangle don`t exist");
 		}
+		sc.close();
 	}
 
 }
